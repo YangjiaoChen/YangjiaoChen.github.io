@@ -2,13 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="author" content="Yang Chen">
+    <meta name="author" content="Yangjiao Chen">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <base href="{{site.baseurl}}/">
 
     <title>{{page.title}}</title>
 
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Yang Chen's Blog" href="rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Yangjiao Chen's Blog" href="rss.xml" />
     <link href="static/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Google Analytics -->
