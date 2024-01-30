@@ -1,4 +1,4 @@
-## Welcome to Yangjiao's world
+## Yangjiao Chen
 
 You can use the [editor on GitHub](https://github.com/YangjiaoChen/YangjiaoChen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
