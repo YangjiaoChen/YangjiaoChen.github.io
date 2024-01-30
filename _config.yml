@@ -1,1 +1,6 @@
-theme: jekyll-theme-leap-day
+# Site settings
+title: Yang Chen                    #你博客的标题
+header-img: static/yang.jpg     #显示在首页的背景图片
+email: y@gamil.com    
+url: "https://edchengg.github.io"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个我们不用填写
