@@ -57,15 +57,15 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon-bar"></span>
           </button>
-          <span class="navbar-brand">Yang Chen</span>
+          <span class="navbar-brand">Yangjiao Chen</span>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li {% if page.section == 'home'%} class="active" {% endif %} >
               <a href="index.html">Home</a>
             </li>
-            <li {% if page.section == 'publications'%} class="active" {% endif %} >
-              <a href="publications.html">Demos</a>
+            <li {% if page.section == 'personal'%} class="active" {% endif %} >
+              <a href="publications.html">Personal</a>
             </li>
           </ul>
         </div>
