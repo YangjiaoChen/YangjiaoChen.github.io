@@ -65,7 +65,7 @@
               <a href="index.html">Home</a>
             </li>
             <li {% if page.section == 'personal'%} class="active" {% endif %} >
-              <a href="publications.html">Personal</a>
+              <a href="personal.html">Personal</a>
             </li>
           </ul>
         </div>
