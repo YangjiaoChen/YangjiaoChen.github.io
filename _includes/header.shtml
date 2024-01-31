@@ -27,6 +27,7 @@
     <style>
       body {
         font-size: 16px;
+        font-family: 'Verdana';
         padding-bottom: 20px;
       }
 
