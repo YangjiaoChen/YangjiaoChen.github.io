@@ -63,9 +63,8 @@
           <span class="icon-bar"> </span>
           <span class="icon-bar"> </span>
         </button>
-          
         </div>
-
+        <div class="navbar-collapse collapse">
           <ul class="nav-links">
             <li {% if page.section == 'home'%} class="active" {% endif %} >
               <a href="index.html">Home</a>
