@@ -61,11 +61,12 @@
             <span class="icon-bar"></span>
           </button>
           <span class="navbar-brand">About Me</span>
+<div class="navbar-collapse collapse">
+        <div class="bar"> </div>
+        <div class="bar"> </div>
+        <div class="bar"> </div>
         </div>
-        <div class="navbar-collapse collapse">
-        <div class="bar"> </div>
-        <div class="bar"> </div>
-        <div class="bar"> </div>
+        
           <ul class="nav navbar-nav">
             <li {% if page.section == 'home'%} class="active" {% endif %} >
               <a href="index.html">Home</a>
