@@ -1,23 +1,21 @@
 # main links links
 main:
 
-  - title: "Urban Sensing"
+  - title: "Home"
     url: /Urban Sensing/
 
-  - title: "NextGen TDM"
+  - title: "Research"
     url: /NextTDM/ # /Traffic Simulation/
 
-  - title: "Travel Resilience"
+  - title: "Teaching"
     url: /Resilience/
 
-  - title: "Public Health"
+  - title: "Service"
     url: /Health/
 
-  - title: "Miscellaneous"
+  - title: "Coursework"
     url: /Shared Mobility/
 
-  - title: "CV"
+  - title: "Personal"
     url: /cv/
-#
-#  - title: "Guide"
-#    url: /markdown/
+
