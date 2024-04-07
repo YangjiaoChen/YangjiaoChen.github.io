@@ -54,20 +54,13 @@
     </style>
   </head>
   <body>
-    <nav class="navbar navbar-inverse navbar-static-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-          </button>
-          <span class="navbar-brand">About Me</span>
-<div class="navbar-collapse collapse">
+    <nav class="navbar">
+      <div class="navbar-toggle" oclivk="toggleMeu()">
         <div class="bar"> </div>
         <div class="bar"> </div>
         <div class="bar"> </div>
         </div>
-        
-          <ul class="nav navbar-nav">
+          <ul class="nav-links">
             <li {% if page.section == 'home'%} class="active" {% endif %} >
               <a href="index.html">Home</a>
             </li>
