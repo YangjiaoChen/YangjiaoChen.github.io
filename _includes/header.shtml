@@ -65,19 +65,19 @@
     <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="navbar-nav">
             <li {% if page.section == 'home'%} class="active" {% endif %} >
-              <a class="nav-link" href="index.html">Home</a>
+              <a href="index.html">Home</a>
             </li>
 <li {% if page.section == 'research'%} class="active" {% endif %} >
-              <a class="nav-link" href="research.html">Research</a>
+              <a href="research.html">Research</a>
             </li>
 <li {% if page.section == 'teaching'%} class="active" {% endif %} >
-              <a class="nav-link" href="teaching.html">Teaching</a>
+              <a href="teaching.html">Teaching</a>
             </li>
 <li {% if page.section == 'service'%} class="active" {% endif %} >
-              <a class="nav-link" href="service.html">Service</a>
+              <a href="service.html">Service</a>
 </li>
             <li {% if page.section == 'coursework'%} class="active" {% endif %} >
-              <a class="nav-link" href="coursework.html">Coursework</a>
+              <a href="coursework.html">Coursework</a>
             </li>
             </li>
             <li {% if page.section == 'personal'%} class="active" {% endif %} >
