@@ -56,11 +56,11 @@
   <body>
     <nav class="navbar navbar-inverse navbar-static-top">
       <div class="container">
+      <a class="navbar-brand" href="#"> About Me  </a>
         <div class="navbar-header">
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myNavbar">
            <span class="navbar-toggler-icon"></span>                      
         </button>
-      <a class="navbar-brand" href="#"> About Me  </a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav">
