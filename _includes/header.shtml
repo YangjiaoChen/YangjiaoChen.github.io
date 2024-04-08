@@ -77,6 +77,9 @@
 <li {% if page.section == 'research'%} class="active" {% endif %} >
               <a href="research.html">Research</a>
             </li>
+<li {% if page.section == 'publication'%} class="active" {% endif %} >
+              <a href="publication.html">Publication</a>
+</li>
 <li {% if page.section == 'teaching'%} class="active" {% endif %} >
               <a href="teaching.html">Teaching</a>
             </li>
