@@ -57,7 +57,7 @@
      <nav class="navbar navbar-inverse navbar-static-top">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <button type="button" class="navbar-toggle" data-bs-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon-bar"></span>
           </button>
           <span class="navbar-brand">About Me</span>
