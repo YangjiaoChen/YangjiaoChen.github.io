@@ -63,25 +63,25 @@
         </button>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-          <ul class="nav navbar-nav">
+          <ul class="navbar-nav">
             <li {% if page.section == 'home'%} class="active" {% endif %} >
-              <a href="index.html">Home</a>
+              <a class="nav-link" href="index.html">Home</a>
             </li>
 <li {% if page.section == 'research'%} class="active" {% endif %} >
-              <a href="research.html">Research</a>
+              <a class="nav-link" href="research.html">Research</a>
             </li>
 <li {% if page.section == 'teaching'%} class="active" {% endif %} >
-              <a href="teaching.html">Teaching</a>
+              <a class="nav-link" href="teaching.html">Teaching</a>
             </li>
 <li {% if page.section == 'service'%} class="active" {% endif %} >
-              <a href="service.html">Service</a>
+              <a class="nav-link" href="service.html">Service</a>
 </li>
             <li {% if page.section == 'coursework'%} class="active" {% endif %} >
-              <a href="coursework.html">Coursework</a>
+              <a class="nav-link" href="coursework.html">Coursework</a>
             </li>
             </li>
             <li {% if page.section == 'personal'%} class="active" {% endif %} >
-              <a href="personal.html">Personal</a>
+              <a class="nav-link" href="personal.html">Personal</a>
             </li>
           </ul>
         </div>
