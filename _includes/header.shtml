@@ -54,17 +54,16 @@
     </style>
   </head>
   <body>
-    <nav class="navbar navbar-inverse navbar-expand-md bg-dark navbar-dark">
-
+     <nav class="navbar navbar-inverse navbar-static-top">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#collapsibleNavbar">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon-bar"></span>
           </button>
           <span class="navbar-brand">About Me</span>
         </div>
-        <div class="collapse navbar-collapse" id="collapsibleNavbar">
-          <ul class="navbar-nav">
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
             <li {% if page.section == 'home'%} class="active" {% endif %} >
               <a href="index.html">Home</a>
             </li>
