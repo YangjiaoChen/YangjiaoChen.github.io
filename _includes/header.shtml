@@ -78,7 +78,7 @@
               <a href="research.html">Research</a>
             </li>
 <li {% if page.section == 'award'%} class="active" {% endif %} >
-              <a class="nav-link" href="awards.html">Honors & Awards</a>
+              <a class="nav-link" href="awards.html"> Awards</a>
 </li>
 <li {% if page.section == 'publication'%} class="active" {% endif %} >
               <a href="publication.html">Publication</a>
