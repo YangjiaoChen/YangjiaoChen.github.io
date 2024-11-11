@@ -2,20 +2,20 @@
 main:
 
   - title: "Home"
-    url: /Urban Sensing/
+    url: /   /
 
   - title: "Research"
-    url: /NextTDM/ # /Traffic Simulation/
+    url: / / # /Traffic Simulation/
 
   - title: "Teaching"
-    url: /Resilience/
+    url: / /
 
   - title: "Service"
-    url: /Health/
+    url: / /
 
   - title: "Coursework"
-    url: /Shared Mobility/
+    url: / /
 
   - title: "Personal"
-    url: /cv/
+    url: / /
 
