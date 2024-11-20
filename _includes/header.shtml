@@ -71,9 +71,7 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li {% if page.section == 'home'%} class="active" {% endif %} >
-              <a href="index.html">Home</a>
-            </li>
+           
 <li {% if page.section == 'award'%} class="active" {% endif %} >
               <a class="nav-link" href="awards.html"> Award</a>
 </li>
