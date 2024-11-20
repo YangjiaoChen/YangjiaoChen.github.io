@@ -67,11 +67,10 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <span class="navbar-brand">About Me</span>
+          <span class="navbar-brand" href="index.html">About Me</span>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-           
 <li {% if page.section == 'award'%} class="active" {% endif %} >
               <a class="nav-link" href="awards.html"> Award</a>
 </li>
